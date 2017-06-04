@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<View id="productInfo" style="textContainer">
+  <Text id="name" style="text" displayCondition="true">product.name</Text>
+  <Text id="description" style="descriptionText" displayCondition="false">product.long_description</Text>
+  <Text id="price" style="text" displayCondition="true">product.price</Text>
+</View>
+
